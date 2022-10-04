@@ -1,10 +1,10 @@
-# Eventmie Lite
+# Event Scheduler Site
 
-**Welcome to Eventmie Lite**
+**Welcome to Event Scheduler Site**
 
 <br>
 
-Eventmie is an Event planning and management Laravel package. With Eventmie, launch a dedicated platform for Event planning on your domain. Streamline the event planning process through automation. Eventmie is secure, scalable, production-ready.
+Eventmie is an Event Scheduler Site. With Eventmie, launch a dedicated platform for Event planning on your domain. Streamline the event planning process through automation. Eventmie is secure, scalable, production-ready.
 
 <br>
 
@@ -31,25 +31,7 @@ Just **install** it into a brand new Laravel application or an existing one and 
 **Eventmie Lite Version** is open-source, free to use. Lite version has got limited features & functionality.
 
 + [Live](https://eventmie.classiebit.com) - Visit lite version live.
-+ [Github](https://github.com/classiebit/eventmie) - Give us a Star.
 + [Download](https://classiebit.com/eventmie) - Visit here to download.
-
-
-### Pro Version
-
-**Eventmie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and exciting features.
-
-+ [Live](https://eventmie-pro.classiebit.com) - Live preview available now.
-+ [Purchase](https://classiebit.com/eventmie-pro) - Available for purchase now - Flat 50% Off (limited time offer)
-
-
-
-### FullyLoaded Version
-
-**EventmiePro FullyLoaded** comes with **Commercial** license. Eventmie Pro FullyLoaded is Advanced version of Eventmie Pro Loaded with Power pack features.
-
-+ [Live](https://eventmie-pro-fullyloaded.classiebit.com) - Live preview available now.
-+ [Purchase](https://classiebit.com/eventmie-pro-fullyloaded) - Available for purchase now - Flat 50% Off (limited time offer)
 
 ---
 
