@@ -12,8 +12,6 @@ Just **install** it into a brand new Laravel application or an existing one and 
 
 ---
 
-#### Read the documentation live - [Eventmie Docs](https://eventmie-docs.classiebit.com)
-
 #### Live Preview - [Eventmie](https://eventmie.classiebit.com)
 
 ---
